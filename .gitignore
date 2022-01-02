@@ -130,3 +130,5 @@ dmypy.json
 
 # practice scripts
 random_numbers.ipynb
+
+config.py
